@@ -1,2 +1,3 @@
 # 3rd-go
-let's try again
+off you go
+some about myself
